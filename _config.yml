@@ -44,7 +44,7 @@ moving:
 
 # Build settings
 theme: moving # note, please use huangyz0918/moving if you want to publish to Github Pages.
-
+remote-themes: huangyz0918/moving
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
