@@ -1,7 +1,7 @@
 title: Hamza Azman # The title of the blog
 author: Hamza Azman # Your name 
 email: hamzaazman6776@gmail.com # your email shown in the footer
-url: http://hamzaazman.github.io # this is your site's root address.
+url: https://hamzaazman.github.io # this is your site's root address.
 description: > # this means to ignore newlines until "show_excerpts:"
   A clean and minimalist theme for Jekyll.
 favicon: "./favicon.ico" # set the favicon of the site 
