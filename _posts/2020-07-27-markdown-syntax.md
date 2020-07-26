@@ -5,8 +5,6 @@ categories: markdown
 ---
 
 
-# Markdown Syntax
-
 > **Markdown**, düz-metin-biçimlendirme sözdizimine sahip bir hafif işaretleme dili. Tasarımı, birçok çıktı biçimine dönüştürülmesine izin verir, ancak aynı ada sahip orijinal araç yalnızca HTML'yi destekler. Markdown genellikle benioku dosyalarını biçimlendirmek, çevrimiçi tartışma forumlarına mesaj yazmak ve düz metin düzenleyicisi kullanarak zengin metin oluşturmak için kullanılır.
 
 ## Heading / Başlık
