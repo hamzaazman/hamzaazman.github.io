@@ -2,5 +2,5 @@
 layout: about
 ---
 
-### Ayarlanıyor ...
+## Ayarlanıyor ...
 
